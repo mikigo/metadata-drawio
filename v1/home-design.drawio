@@ -1,0 +1,342 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="第 1 页" id="aPlHKwyXHAjupMKyKzY2">
+    <mxGraphModel dx="5227" dy="2569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BadHAU-dtBYLzcndAwtE-126" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="690" y="825" width="64.55" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-65" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=90;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="1032.5" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="670.9" y="164.11" width="148.2" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="740" y="235" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="1" vertex="1">
+          <mxGeometry x="410" y="235" width="330" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="410" y="235" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="335.45" y="320.45" width="159.1" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="410" y="395" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="1" vertex="1">
+          <mxGeometry x="90" y="395" width="320" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="60" y="395" width="30" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="60" y="805" width="360" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="60" y="815" width="10" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="9J6Cuz6gw328BKVyAziX-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-10.620000000000005" y="1350.63" width="151.25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1425" width="360" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1425" width="180" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="430" y="905" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="340" y="815" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1115" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1425" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="750" y="815" width="10" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="750" y="805" width="370" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="750" y="15" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="889.69" y="105" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="970" y="390" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="410" y="405" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=0;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="335.45" y="652" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_double;rotation=-90;fillColor=#fad7ac;strokeColor=#b46504;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="85" y="1010" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1275" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="910" y="105" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;labelBackgroundColor=light-dark(#0b0a0a, #ededed);fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="720" y="385" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="95" width="10" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="840" y="95" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;rotation=-90;fillColor=#fad7ac;strokeColor=#b46504;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="95" y="385" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_22;rotation=-90;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="432" y="1016" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;rotation=90;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="930" y="535" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.refrigerator;rotation=90;sketch=1;curveFitting=1;jiggle=2;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="685" y="838" width="70" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-34" value="梳妆台" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;rotation=-90;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="53" y="925" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="70" y="815" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;rotation=90;fontSize=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="213.07" y="1109.83" width="373.91" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1285" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1355" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-42" value="洗烘套装" style="text;html=1;whiteSpace=wrap;strokeColor=#432D57;fillColor=#76608a;align=center;verticalAlign=middle;rounded=0;labelBorderColor=default;fontColor=#190033;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-44" value="锅炉" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;direction=south;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="715" y="1289.73" width="35" height="45.27" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-45" value="搓衣板" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="1305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-46" value="淋浴" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1184" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-48" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorBypass;dx=0.25;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1109" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-49" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorBypass;dx=0.25;rotation=-180;flipH=1;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1275" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1025" width="60" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-51" value="浴室柜" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;fontColor=#190033;" parent="1" vertex="1">
+          <mxGeometry x="700" y="1034" width="40" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-53" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="1" vertex="1">
+          <mxGeometry x="620" y="815" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;rotation=0;fillColor=#cdeb8b;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1285" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-56" value="淋浴" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1355" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1289.73" width="70" height="45.27" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-59" value="浴室柜" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#190033;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1298.73" width="50" height="26.27" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-61" value="" style="endArrow=none;html=1;rounded=0;fontSize=25;fontStyle=1;strokeWidth=6;curved=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="1335" as="sourcePoint" />
+            <mxPoint x="434.63" y="1285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-62" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="434.55" y="1335" width="78" height="82.88" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-64" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="BadHAU-dtBYLzcndAwtE-65" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1219" as="sourcePoint" />
+            <mxPoint x="590" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="535" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-74" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="410" width="70" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-75" value="梳妆台 + 书桌" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;rotation=-90;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="53" y="625" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-76" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="420" y="895" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-77" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="70" y="742.5" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-78" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorBypass;dx=0.25;rotation=-180;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="440" y="895" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-80" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="897" y="325.62" width="70" height="74.38" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-81" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="840" y="105" width="49.69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-83" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="410" y="735" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-104" value="桌子" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=none;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="721" y="427.5" width="85" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-105" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;fillColor=#6d8764;strokeColor=#3A5431;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="810" y="755" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-106" value="155" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="434.55" y="1465" width="155.45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-108" value="370" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="900" width="40" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-110" value="150" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="601.1" y="1465" width="148.9" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-111" value="290" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;labelBackgroundColor=none;horizontal=0;spacingBottom=3;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="105" width="40" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-112" value="220" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="893" y="37.5" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-113" value="300" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="810" y="837.5" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-114" value="360" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1465" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-116" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1360.63" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-117" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1395" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-118" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#76608a;strokeColor=#432D57;fontColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="502" y="1225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-119" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="512" y="1235" width="18" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-120" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#76608a;strokeColor=#432D57;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="551" y="1235" width="18" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-122" value="餐边柜" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="940" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-123" value="鞋柜" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="829.69" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-124" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;sketch=1;curveFitting=1;jiggle=2;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="250" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-125" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1275" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-127" value="冰箱" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="854" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-128" value="晾衣区" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="609" y="1374" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-132" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1333" as="sourcePoint" />
+            <mxPoint x="432" y="1332.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-133" value="屏风" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-134" value="90" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1025" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-135" value="饮水机" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#190033;strokeColor=#314354;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="750" y="755" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BadHAU-dtBYLzcndAwtE-136" value="换鞋区&lt;div&gt;小窗子&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="833" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-1" value="97" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="281.4" y="903.32" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="70" y="565" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1184" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-4" value="空调" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-5" value="空调" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1214" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="843" y="165" width="50" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="568.4300000000001" y="1255" as="sourcePoint" />
+            <mxPoint x="570" y="1485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-9" value="厨房排烟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w3d984od0XjIZv3uiPdJ-8" connectable="0" vertex="1">
+          <mxGeometry x="0.7195" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="510" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="485" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-16" value="台阶" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275.45" y="532.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-17" value="台阶" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-18" value="台阶" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorBypass;dx=0.25;rotation=-180;direction=south;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="591.1" y="902" width="10" height="211.5" as="geometry" />
+        </mxCell>
+        <mxCell id="w3d984od0XjIZv3uiPdJ-21" value="蹲便" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="669" y="1129.83" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
